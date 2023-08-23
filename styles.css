@@ -373,4 +373,17 @@ button:hover {
         text-align: start;
         padding-left: 110px;
     }
+
+    footer {
+        padding-left: 150px;
+        padding-right: 150px;
+    }
+
+    .footer-logo {
+        margin-bottom: 30px;
+    }
+
+    .footer-nav-1,.footer-nav-2 {
+        gap: 15px;
+    }
 }
