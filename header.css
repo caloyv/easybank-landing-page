@@ -181,5 +181,6 @@ ul {
 
     header {
         padding: 0 100px;
+        justify-content: space-between;
     }
 }
