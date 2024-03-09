@@ -1,3 +1,3 @@
 # Easybank Landing Page
-[Frontendmentor Coding Challenge](https://www.frontendmentor.io/challenges/easybank-landing-page-WaUhkoDN/hub){:target="_blank"} <br/><br/>
-Live Demo: [https://caloyv.github.io/easybank-landing-page/](https://caloyv.github.io/easybank-landing-page/){:target="_blank"}
+<a href="https://www.frontendmentor.io/challenges/easybank-landing-page-WaUhkoDN/hub" target="_blank">Frontendmentor Coding Challenge</a> <br/><br/>
+Live Demo: <a href="https://caloyv.github.io/easybank-landing-page/" target="_blank">https://caloyv.github.io/easybank-landing-page/</a>
