@@ -180,6 +180,7 @@ ul {
     }
 
     header {
+        height: 70px;
         padding: 0 100px;
         justify-content: space-between;
     }
